@@ -8,3 +8,7 @@
 
 
 Drive link for airflow and terraform folder - https://drive.google.com/drive/folders/1hh386ZfRX6DH05hrmgPU2y3-a_bWHvqJ?usp=sharing
+
+Complete report could be found in Final Report.pdf
+
+Dashboard ; <img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/cdee6394-373b-4db8-973c-0b4427232826" />
